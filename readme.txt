@@ -4,5 +4,3 @@
 4. Sort by id or author(s).
 5. Get top 3 authors that wrote the most articles last week.
 6. You can edit and delete article(s) and delete author(s) 
-
-Mateusz Błaszkowski 
